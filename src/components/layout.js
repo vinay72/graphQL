@@ -44,4 +44,6 @@ export default ({ children }) => (
         </Link>
         {children}
       </div>
-    )}  />)
+    )}  
+  />
+)
