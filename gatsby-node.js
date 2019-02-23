@@ -14,7 +14,8 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
 }
 
 exports.createPages = ({ graphql, actions }) => {
-  const { createPage } = actions  return graphql(`
+  const { createPage } = actions 
+  return graphql(`
     {
       allMarkdownRemark {
         edges {
