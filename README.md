@@ -9,4 +9,5 @@ https://github.com/vinay72/graphQL/blob/master/img/Screenshot%20from%202019-02-2
 https://github.com/vinay72/graphQL/blob/master/img/Screenshot%20from%202019-02-26%2016-11-04.png <br>
 https://github.com/vinay72/graphQL/blob/master/img/Screenshot%20from%202019-02-26%2016-11-13.png 
 
-### Back End 
+### GraphiQL Queries
+https://github.com/vinay72/graphQL/blob/master/img/Screenshot%20from%202019-02-26%2016-20-12.png
